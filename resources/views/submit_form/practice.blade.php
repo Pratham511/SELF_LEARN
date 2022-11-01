@@ -231,7 +231,7 @@
 
     let result = basketballPlayers.forEach(function (name){
         console.log(name);
-    });
+    });  
 
 
     // var single_result = result.map(function (val){
